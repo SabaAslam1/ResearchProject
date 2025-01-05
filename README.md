@@ -21,11 +21,11 @@ This project involves analyzing and classifying histopathological images from th
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/breakhis-classification.git
+   git clone https://github.com/SabaAslam1/ResearchProject.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd breakhis-classification
+   cd ResearchProject
    ```
 3. Ensure you have a Kaggle API key. Place the `kaggle.json` file in the working directory.
 4. Open the Jupyter Notebook:
