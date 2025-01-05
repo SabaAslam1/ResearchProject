@@ -21,7 +21,7 @@ This project involves analyzing and classifying histopathological images from th
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/SabaAslam1/ResearchProject.git
+   git clone https://github.com/SabaAslam1.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -30,7 +30,7 @@ This project involves analyzing and classifying histopathological images from th
 3. Ensure you have a Kaggle API key. Place the `kaggle.json` file in the working directory.
 4. Open the Jupyter Notebook:
    ```bash
-   jupyter notebook
+   jupyter notebook Breakhis_CodeFile.ipynb
    ```
 5. Follow the steps in the notebook:
    - Download the dataset using Kaggle API.
